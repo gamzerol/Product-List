@@ -1,0 +1,366 @@
+{
+    "results": {
+        "products": [
+            {
+                "showAddToCartFlag": true,
+                "averageRating": 0.0,
+                "code": "1000317499",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000317499/1000317499_1_MC/8818343149618_1580295077939.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000317499/1000317499_1_MC/8818343149618_1580295077939.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000317499/1000317499_1_MC/8818343149618_1580295077939.jpg"
+                    }
+                ],
+                "name": "Gold Country 4 Kapak 2 Çekmeceli Gardırop",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.299,00 TL",
+                    "priceType": "BUY",
+                    "value": 1299.0
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.199,00 TL",
+                    "priceType": "BUY",
+                    "value": 1199.0
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": false,
+                "averageRating": 4.1,
+                "code": "1000316304",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000316304/1000316304_1_MC/8818639044658_1564673589167.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000316304/1000316304_1_MC/8818639044658_1639048523855.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000316304/1000316304_1_MC/8818639044658_1564673589167.jpg"
+                    }
+                ],
+                "name": "Festin 4 Kapaklı 2 Çekmeceli Gardrop",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "799,90 TL",
+                    "priceType": "BUY",
+                    "value": 799.9
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "499,90 TL",
+                    "priceType": "BUY",
+                    "value": 499.9
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": true,
+                "averageRating": 4.7,
+                "code": "1000397840",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000397840/1000397840_1_MC/8823063576626_1584086041232.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000397840/1000397840_1_MC/8823063576626_1584086041232.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000397840/1000397840_1_MC/8823063576626_1584086041232.jpg"
+                    }
+                ],
+                "name": "Rabi Beyza Country Aynalı 6 Kapaklı 2 Çekmeceli Gardırop",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "2.469,00 TL",
+                    "priceType": "BUY",
+                    "value": 2469.0
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "2.469,00 TL",
+                    "priceType": "BUY",
+                    "value": 2469.0
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": true,
+                "averageRating": 3.8333333333333335,
+                "code": "1000332927",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000332927/1000332927_1_MC/8819352469554_1565003658167.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000332927/1000332927_1_MC/8819352469554_1565003658167.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000332927/1000332927_1_MC/8819352469554_1565003658167.jpg"
+                    }
+                ],
+                "name": "Adore Mobilya Base Genç Odası 4 Kapaklı 2 Çekmeceli Gardırop",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.099,90 TL",
+                    "priceType": "BUY",
+                    "value": 1099.9
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.099,90 TL",
+                    "priceType": "BUY",
+                    "value": 1099.9
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": true,
+                "averageRating": 2.226,
+                "code": "1000426235",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000426235/1000426235_1_MC/8827026505778_1610538656581.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000426235/1000426235_1_MC/8827026505778_1610538656581.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000426235/1000426235_1_MC/8827026505778_1610538656581.jpg"
+                    }
+                ],
+                "name": "3 Kapaklı 3 Çekmeceli Gardırop Beyaz",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "499,90 TL",
+                    "priceType": "BUY",
+                    "value": 499.9
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "499,90 TL",
+                    "priceType": "BUY",
+                    "value": 499.9
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": true,
+                "averageRating": 3.1902,
+                "code": "1000347465",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000347465/1000347465_1_MC/8820256276530_1568986501897.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000347465/1000347465_1_MC/8820256276530_1611577180668.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000347465/1000347465_1_MC/8820256276530_1568986501897.jpg"
+                    }
+                ],
+                "name": "Lux 6 Kapılı 2 Çekmeceli Aynalı Gardırop Beyaz",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.369,00 TL",
+                    "priceType": "BUY",
+                    "value": 1369.0
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.169,00 TL",
+                    "priceType": "BUY",
+                    "value": 1169.0
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": false,
+                "averageRating": 5.0,
+                "code": "1000242409",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000242409/1000242409_3_MC/8809545760818_1577449123153.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000242409/1000242409_3_MC/8809545760818_1577449123153.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000242409/1000242409_3_MC/8809545760818_1577449123153.jpg"
+                    }
+                ],
+                "name": "Prestij Paris Sürgülü Gardırop",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.599,00 TL",
+                    "priceType": "BUY",
+                    "value": 1599.0
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.599,00 TL",
+                    "priceType": "BUY",
+                    "value": 1599.0
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": true,
+                "averageRating": 0.0,
+                "code": "1000426234",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000426234/1000426234_1_MC/8827030569010_1610538856718.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000426234/1000426234_1_MC/8827030569010_1637668226712.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000426234/1000426234_1_MC/8827030569010_1610538856718.jpg"
+                    }
+                ],
+                "name": "3 Kapaklı Gardırop Beyaz",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "479,90 TL",
+                    "priceType": "BUY",
+                    "value": 479.9
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "479,90 TL",
+                    "priceType": "BUY",
+                    "value": 479.9
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": false,
+                "averageRating": 2.8,
+                "code": "1000242415",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000242415/1000242415_1_MC/8809546252338_1534414764345.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000242415/1000242415_1_MC/8809546252338_1534414764345.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000242415/1000242415_1_MC/8809546252338_1534414764345.jpg"
+                    }
+                ],
+                "name": "Beyza Avangart Aynalı 6 Kapaklı 2 Çekmeceli Gardırop",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "2.179,00 TL",
+                    "priceType": "BUY",
+                    "value": 2179.0
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.679,00 TL",
+                    "priceType": "BUY",
+                    "value": 1679.0
+                },
+                "wishListContains": false
+            },
+            {
+                "showAddToCartFlag": true,
+                "averageRating": 3.9,
+                "code": "1000316310",
+                "images": [
+                    {
+                        "format": "thumbnail",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/96/96/productimages/1000316310/1000316310_3_MC/8821924134962_1577449123994.jpg"
+                    },
+                    {
+                        "format": "product",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/300/300/productimages/1000316310/1000316310_1_MC/8818639437874_1617184269546.jpg"
+                    },
+                    {
+                        "format": "zoom",
+                        "imageType": "PRIMARY",
+                        "url": "https://koctas-img.mncdn.com/mnresize/600/600/productimages/1000316310/1000316310_3_MC/8821924134962_1577449123994.jpg"
+                    }
+                ],
+                "name": "Sline 3 Kapaklı Aynalı Sürgülü Gardrop",
+                "price": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.249,00 TL",
+                    "priceType": "BUY",
+                    "value": 1249.0
+                },
+                "priceWithDiscount": {
+                    "currencyIso": "TRY",
+                    "formattedValue": "1.249,00 TL",
+                    "priceType": "BUY",
+                    "value": 1249.0
+                },
+                "wishListContains": false
+            }
+        ]
+    }
+}

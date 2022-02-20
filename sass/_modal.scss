@@ -1,0 +1,65 @@
+.modal {
+  &-header {
+    background-color: $color-light-grey;
+    color: $color-primary;
+    font-weight: 600;
+    font-size: 1.6rem;
+  }
+
+  &-title,
+  &-close span{
+    font-size: 1.6rem;
+    font-weight: 600;
+  }
+
+  &-content {
+    width: 100%;
+    border: none;
+
+  }
+  &-body {
+    padding: 1.6rem;
+  }
+}
+
+.form {
+  &-info {
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  &-group {
+    &-left {
+      float: left;
+      width: 49%;
+    }
+    &-right {
+      float: right;
+      width: 49%;
+    }
+    span {
+      text-decoration: underline;
+      font-weight: 600;
+    }
+    &:last-of-type {
+      display: flex;
+      align-items: center;
+    }
+  }
+  &-control {
+    font-size: 1.6rem;
+  }
+
+  &-check-input {
+    margin: 0;
+    margin-right: 3px;
+    position: unset;
+  }
+
+  button {
+    font-size: 1.6rem;
+    padding: 5px 15px;
+    width: 30%;
+    background-color: $color-primary;
+    color: $color-white;
+  }
+}

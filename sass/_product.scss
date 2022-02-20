@@ -1,0 +1,129 @@
+.product {
+  padding: 10px 15px;
+  flex: 0 0 20%;
+  max-width: 20%;
+  cursor: pointer;
+  display: flex;
+
+  &-wrapper {
+    border:1px solid transparent;
+    position: relative;
+
+    &:hover {
+      border: 1px solid $color-light-grey;
+
+      .product-fav {
+        visibility: visible;
+      }
+      
+      button {
+        visibility: visible;
+      }
+    }
+    &.submitted {
+      background-color: $color-green;
+    }
+  }
+
+  &-fav {
+    visibility: hidden;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    img {
+      width: 20px;
+      border: 1px solid #7a7a7a;
+      border-radius: 50%;
+      padding: 2px;
+    }
+  }
+
+  &-image {
+    padding: .5rem;
+
+    img {
+      max-width: 100%;
+    }
+  }
+
+  &-info {
+    padding: 1rem;
+  }
+  &-rating {
+    display: flex;
+    align-items: center;
+
+    &__average {
+      
+    }
+  }
+
+  &-title {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin: 5px 0;
+  }
+
+  &-price {
+    display: flex;
+    align-items: center;
+    margin: 5px 0 10px 0;
+
+    &__discount {
+      width: 20%;
+      text-align: center;
+      align-self: stretch;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 5px;
+      background-color: $color-red;
+      color: $color-white;
+    }
+
+    &__info {
+      &--discounted {
+        font-weight: 600;
+      }
+
+    }
+  }
+
+  &-badge {
+    color: $color-blue;
+    display: flex;
+    align-items: center;
+
+    img {
+      width: 1.3rem;
+      margin-right: 3px;
+    }
+  }
+
+  &-btn {
+    width: 100%;
+    padding: 0 10px 10px;
+
+    &__addToCart {
+      width: 100%;
+      border: 1px solid $color-green;
+      background-color: $color-green;
+      color: $color-white;
+      padding: 1rem;
+      border-radius: .2rem;
+      outline: none;
+      cursor: pointer;
+      visibility: hidden;
+
+      &:hover {
+        background-color: $color-dark-green;
+        border-color: $color-dark-green;
+      }
+    }
+    .showBtn {
+      visibility: visible;
+      background-color: $color-dark-green;
+      border-color: $color-dark-green;
+    }
+  }
+}
